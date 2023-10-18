@@ -40,3 +40,4 @@ C:\Users\ERDEM OKUTAN\Desktop\Projects\Water Watch\WaterWatch\bin\Debug\net7.0\N
 C:\Users\ERDEM OKUTAN\Desktop\Projects\Water Watch\WaterWatch\bin\Debug\net7.0\System.CodeDom.dll
 C:\Users\ERDEM OKUTAN\Desktop\Projects\Water Watch\WaterWatch\obj\Debug\net7.0\WaterWatch.csproj.AssemblyReference.cache
 C:\Users\ERDEM OKUTAN\Desktop\Projects\Water Watch\WaterWatch\obj\Debug\net7.0\WaterWatch.csproj.CopyComplete
+C:\Users\ERDEM OKUTAN\Desktop\Projects\Water Watch\WaterWatch\bin\Debug\net7.0\Newtonsoft.Json.dll

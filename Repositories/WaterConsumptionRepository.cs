@@ -80,7 +80,7 @@ namespace WaterWatch.Repositories
 
             else
             {
-                Console.WriteLine("Data     Loaded")
+                Console.WriteLine("Data     Loaded");
             }
         }
     }
