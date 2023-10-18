@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kJh4MgrqYfEehbfBWefrQbB/Zkx3pqWvFArw+3iziGVZI51gmAmYTLGfi+QNTGPzpj8T1VltkbOg4fgPVysFog==",
+  "dgSpecHash": "FoXiIhwW4Obi8Migsm1Hz6jQgYNMSPsC5QDUqx3sIBgmRbp9/oPQy5libregG1qQhV3nw2YlWzCf+DMbgrN8Wg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ERDEM OKUTAN\\Desktop\\Projects\\Water Watch\\WaterWatch\\WaterWatch.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\ERDEM OKUTAN\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\ERDEM OKUTAN\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\ERDEM OKUTAN\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\ERDEM OKUTAN\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\ERDEM OKUTAN\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
     "C:\\Users\\ERDEM OKUTAN\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.11\\npgsql.entityframeworkcore.postgresql.7.0.11.nupkg.sha512",
     "C:\\Users\\ERDEM OKUTAN\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
